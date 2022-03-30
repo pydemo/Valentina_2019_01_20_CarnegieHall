@@ -1,0 +1,2 @@
+*.AWR filter=lfs diff=lfs merge=lfs -text
+*.ARW filter=lfs diff=lfs merge=lfs -text
